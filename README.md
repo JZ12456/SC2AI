@@ -8,10 +8,10 @@ Features:
 - Logs match stats to `match_log.csv`.
 - Works against all races with configurable difficulty.
 
-## Installation
+## Requirements (SC2 needed)
 
 - Python virtual enviornement
-- sc2-0.11.2
+- BurnySC2-0.11.2
 - numpy
 - pandas
 
