@@ -1,4 +1,4 @@
-# Terran Bot Version 2
+# Terran Bot (Half-Baked)
 
 Features:
 - Rule-based Terran bot (macro + army) for SC2 using python-sc2.
