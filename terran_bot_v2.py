@@ -3,7 +3,8 @@
 #Auto-saves replay and logs match stats
 #Able to fight all 3 races
 
-from sc2 import run_game, maps, Race, Difficulty
+from sc2 import maps, Race, Difficulty
+from sc2.main import run_game
 from sc2.player import Bot, Computer
 from sc2.bot_ai import BotAI
 from sc2.constants import *
